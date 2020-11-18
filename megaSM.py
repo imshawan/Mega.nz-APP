@@ -1,5 +1,5 @@
 #
-#requiremenr: pip install mega.py
+#requirement: pip install mega.py
 #dev: imshawan
 #
 import os
