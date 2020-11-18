@@ -1,6 +1,6 @@
 #
 #requiremenr: pip install mega.py
-#dev: imshawan049
+#dev: imshawan
 #
 import os
 import sys
